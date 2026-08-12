@@ -1,0 +1,7 @@
+{
+  "name": "missao30-backend",
+  "private": true,
+  "devDependencies": {
+    "supabase": "^2.0.0"
+  }
+}
